@@ -9,11 +9,11 @@ public class Main {
          * Read the docs summary + key methods, then build the mini-project.
          * Base API docs: https://docs.oracle.com/en/java/javase/21/docs/api/index.html
          *
-         * [ ] 1. ArrayList     - add, get, set, remove, size, contains
+         * [X] 1. ArrayList     - add, get, set, remove, size, contains
          *        Docs:  https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/ArrayList.html
          *        Build: To-do list (add/remove/print items)
          *
-         * [ ] 2. HashMap       - put, get, getOrDefault, containsKey, merge, entrySet
+         * [X] 2. HashMap       - put +, get +, getOrDefault +, containsKey +, merge, entrySet
          *        Docs:  https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/HashMap.html
          *        Build: Word counter for a sentence                    ** IMPORTANT
          *
