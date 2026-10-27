@@ -8,6 +8,7 @@ public class todolist {
         ArrayList<String> todo = new ArrayList<>();
         System.out.println("Welcome to todolist!\n");
         while(true){
+            // as a note for arraylist .set... it changes index item to what you want
             System.out.println("---Menu---");
             System.out.println("Press 1 to add tasks");
             System.out.println("Press 2 to see tasks");

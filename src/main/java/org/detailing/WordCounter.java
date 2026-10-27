@@ -4,6 +4,9 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class WordCounter {
+
+
+
     public static void main(String[] args) {
         // Word counter
         // want to get the number of times a word is in a sentence
@@ -41,6 +44,7 @@ public class WordCounter {
         for(String s: wordCount.keySet()){
             System.out.println(s + "  :  " + wordCount.get(s));
         }
-        System.out.println(wordCount);
+        // entryset shows hsahmap **set view** of the mapping
+//        System.out.println(wordCount.entrySet());
     }
 }

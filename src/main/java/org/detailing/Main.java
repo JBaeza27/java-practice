@@ -13,11 +13,11 @@ public class Main {
          *        Docs:  https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/ArrayList.html
          *        Build: To-do list (add/remove/print items)
          *
-         * [X] 2. HashMap       - put +, get +, getOrDefault +, containsKey +, merge, entrySet
+         * [X] 2. HashMap       - put +, get +, getOrDefault +, containsKey +, merge +, entrySet +
          *        Docs:  https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/HashMap.html
          *        Build: Word counter for a sentence                    ** IMPORTANT
          *
-         * [ ] 3. HashSet       - add (false on duplicate), contains, remove
+         * [-] 3. HashSet       - add (false on duplicate), contains, remove (26. Remove Duplicates from Sorted Array)
          *        Docs:  https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/HashSet.html
          *        Build: Find first repeated character in a string
          *
