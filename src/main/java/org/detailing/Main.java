@@ -21,11 +21,11 @@ public class Main {
          *        Docs:  https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/HashSet.html
          *        Build: Find first repeated character in a string
          *
-         * [ ] 4. ArrayDeque    - stack: push, pop, peek / queue: offer, poll, peek
+         * [-] 4. ArrayDeque    - stack: push, pop, peek / queue: offer, poll, peek
          *        Docs:  https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/ArrayDeque.html
          *        Build: Balanced brackets checker ({[]})               ** IMPORTANT
          *
-         * [ ] 5. PriorityQueue - offer, poll, peek, custom comparator
+         * [-x ] 5. PriorityQueue - offer, poll, peek, custom comparator
          *        Docs:  https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/PriorityQueue.html
          *        Build: Task scheduler (highest priority first)        ** IMPORTANT
          *
